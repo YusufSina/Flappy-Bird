@@ -1,6 +1,6 @@
 # Welcome to My Flappy Bird!
 
-Hi! I'm Yusuf Sina. I have developed projects for my background, interview, knowledge and experience. This game is one of them. Enjoy the game and please feed back me.
+Hi! I'm Yusuf Sina. I have developed projects for my background, interview, knowledge and experience. This game is one of them. Enjoy the game and please feed me back.
 
 
 # How to Play
